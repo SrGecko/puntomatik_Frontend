@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open App.html",
+            "file": "c:\\Users\\Gecko\\Desktop\\Popurrì\\U\\2020-2\\software 2\\wawp64 www\\puntomatik\\src\\App.html"
+        }
+    ]
+}
